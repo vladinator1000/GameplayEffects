@@ -3,14 +3,14 @@
 	"Version": 1,
 	"VersionName": "0.1",
 	"FriendlyName": "GameplayEffects",
-	"Description": "",
+	"Description": "Author gameplay in a modular and sequentially executable way.",
 	"Category": "Other",
 	"CreatedBy": "Vlady Veselinov",
-	"CreatedByURL": "",
+	"CreatedByURL": "https://github.com/savovs/GameplayEffects",
 	"DocsURL": "",
 	"MarketplaceURL": "",
 	"SupportURL": "",
 	"CanContainContent": true,
-	"IsBetaVersion": false,
+	"IsBetaVersion": true,
 	"Installed": false
 }
